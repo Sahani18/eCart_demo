@@ -1,5 +1,8 @@
 # shopping_app
 
+Light Mode & Dark mode supported 
+
+State Management done using Velocity X
 
 
 https://user-images.githubusercontent.com/72247207/135706960-56ae0dcc-9fa1-4df5-9fce-9f6042e0bc9f.mp4
