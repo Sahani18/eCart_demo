@@ -1,4 +1,4 @@
-# shopping_app
+# E-Cart
 
 Light Mode & Dark mode supported 
 
